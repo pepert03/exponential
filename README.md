@@ -42,7 +42,7 @@ I'm a lifelong learner, always seeking new topics to explore. I graduated with a
 ## How I Work
 
 - **Gets me pumped:** Finding real-world utility in complex math concepts, continuous learning, AI that goes beyond the standard LLMs and transformer architectures.
-- **Disappoints me:** Accepting the status quo, inefficient legacy processes, and losing the human element in art.
+- **Disappoints me:** Bureaucracy or inefficient legacy processes, and losing the human element in art.
 - **Strengths:** Strong mathematical foundation, curiosity, rapid learning, and adapting to complex new frameworks.
 - **Improvement points:** Balancing my desire to learn everything with the need to hyper-focus on specific niches; managing scope in ambitious research projects.
 - **Known behaviours / comms style:** Energetic team collaborator, highly analytical, transparent, and driven by high-impact ideas.
